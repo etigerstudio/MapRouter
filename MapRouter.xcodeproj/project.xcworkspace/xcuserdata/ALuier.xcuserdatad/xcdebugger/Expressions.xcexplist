@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GameScene.setDotSelected(_:selected:):GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "borderNodes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.fetchData():GameScene.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "nodes">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "GameScene.distanceBetween(_:and:):GameScene.swift">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
